@@ -1,0 +1,20 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Tetrix:jar2">
+    <output-path>$PROJECT_DIR$/out/artifacts/Tetrix_jar2</output-path>
+    <root id="archive" name="Tetrix.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="Tetrix" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../DOC_IMPORTANTS/javafx-sdk-22.0.1/lib/javafx-swt.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../DOC_IMPORTANTS/javafx-sdk-22.0.1/lib/javafx.web.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../DOC_IMPORTANTS/javafx-sdk-22.0.1/lib/javafx.base.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../DOC_IMPORTANTS/javafx-sdk-22.0.1/lib/javafx.fxml.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../DOC_IMPORTANTS/javafx-sdk-22.0.1/lib/javafx.media.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../DOC_IMPORTANTS/javafx-sdk-22.0.1/lib/javafx.swing.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../DOC_IMPORTANTS/javafx-sdk-22.0.1/lib/javafx.controls.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../DOC_IMPORTANTS/javafx-sdk-22.0.1/lib/javafx.graphics.jar" path-in-jar="/" />
+      <element id="file-copy" path="$PROJECT_DIR$/target/classes/module-info.class" />
+    </root>
+  </artifact>
+</component>
